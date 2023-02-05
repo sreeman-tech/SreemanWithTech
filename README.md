@@ -1,4 +1,4 @@
-# ICD-ATOMS.github.io
+# sreeman-tech.github.io
 
 A minimalist redirection page I wrote for myself.
 
